@@ -105,3 +105,23 @@
     margin-top: 2vh;
     margin-bottom: 10vh;
 }
+
+    a:link
+{
+    color: red;
+}
+
+    a:visited
+{
+    color: green;
+}
+
+    a:hover
+{
+    color: hotpink;
+}
+
+    a:active
+{
+    color:blue;
+}
